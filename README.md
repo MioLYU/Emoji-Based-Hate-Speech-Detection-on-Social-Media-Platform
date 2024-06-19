@@ -17,3 +17,4 @@ This process has been done in **Training_deep_model/**. This folder consists of 
 Every trained model and other needed model such as FastText pre-trained embedding model have been put in this **Model/** folder. However, some model files are too big so we cannot put them all in this GitHub but we could find them in this drive https://drive.google.com/drive/folders/1QxCGA8utdAZNqD8bzA90FJuImKL4UUYh?usp=sharing.
 ### Project Report
 Additionally, we could find our report document at this link https://www.overleaf.com/7996372421xcnmbnkwryrp.
+### Cooperate with Nalin & Shu
